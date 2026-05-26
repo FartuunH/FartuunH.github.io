@@ -1,61 +1,65 @@
-# [Your Name] - Data Analysis Portfolio
+# Fartuun Hussein - Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Welcome! I am currently on my last year pursuing a Bachelor of Science in Data Analytics at Rasmussen University and building my skills in data analysis, SQL, Power BI, Excel, Python, and business intelligence. This portfolio showcases my projects, coursework, and hands-on experience in analyzing data to uncover trends, solve problems, and support decision-making.
 
-## About This Portfolio Template
+I enjoy turning raw data into meaningful insights and continuously expanding my technical and analytical skills through academic projects and real-world case studies.
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+About This Portfolio Website
 
-## 🚀 Projects
+This portfolio demonstrates my growing skills in:
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+Data visualization and storytelling
+Data cleaning and analysis
+SQL database querying and management
+Business intelligence and dashboard development
+Turning complex data into actionable insights
+🚀 Projects
+Project A: Healthiest Employee Analysis
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+A data analysis project focused on identifying trends in employee wellness and healthy workplace behaviors. This project explores health-related metrics to better understand patterns that contribute to employee wellbeing.
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+Tools Used: Excel, SQL, Power BI (change if needed)
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+Project B: Retail Shopping Behavior Case Study
+
+A retail data case study analyzing shopping patterns among families, single males, and single females to identify purchasing behavior trends and consumer preferences.
+
+Tools Used: Excel, SQL, Power BI
+
+Project C: Database Design for Alma Gym
+
+A relational database project designed for a gym business to manage memberships, trainers, payments, schedules, and customer information using database fundamentals and business requirements analysis.
+
+Tools Used: SQL, Database Design, MySQL
+
+🛠️ Skills
+Data Visualization
+Power BI
+Excel Charts & Dashboards
+Data Analysis
+SQL
+Python (Learning)
+Excel
+Data Cleaning & Reporting
+Database & Data Modeling
+MySQL
+SQL Server
+Database Design
+Relational Databases
+Power Query
+Business & Analytics
+Data Interpretation
+Problem Solving
+Trend Analysis
+Reporting & Insights
+Current Goal
+
+I am currently building my GitHub portfolio to showcase my data analytics projects, strengthen my technical skills, and prepare for opportunities in data analytics, business intelligence, and database management.
+
+GitHub Pages Setup
+
+To publish your portfolio website, create your repository using:
+
+FartuunH.github.io
 
 
-## 🛠️ Skills
-
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
-
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
-
-## 💡 How to Use This Template
-
-Creating your own portfolio from this template is a simple, four-step process.
-
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
-
-### 2. Name Your Repository for GitHub Pages
-This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
-
-### 3. Customize Your Portfolio
-Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
-- Social media links
-- The "About Me" section
-- Your project titles, descriptions, and links
-- Your list of skills
-
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
-
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
